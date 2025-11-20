@@ -62,8 +62,6 @@ The primary interface for scanning directories:
 * File listing with path and size
 * Status and progress indicators
 
-![Overview Screen](assets/Overview.png)
-
 ---
 
 ### **Duplicates Screen**
@@ -74,8 +72,6 @@ Tools for identifying and managing duplicate files:
 * Delete Selected (with confirmation)
 * Export CSV / Export JSON
 * Grouped duplicate sets with checkboxes
-
-![Duplicates Screen](assets/Duplicate.png)
 
 ---
 
@@ -88,8 +84,6 @@ Manage application preferences:
 * Ignore glob patterns
 * Partial hash size
 * Save / Reload settings
-
-![Settings Screen](assets/Setting.png)
 
 ---
 
