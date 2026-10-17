@@ -178,8 +178,7 @@ diskviz/
 - **serde 1.0**: Serialization/deserialization
 - **directories 5.0.1**: Cross-platform directory resolution
 
-Author
+## Author
 
-SAN WIN
-
-Software Engineering Student
+**San Win**  
+Software Engineering Student — KMITL, Thailand
