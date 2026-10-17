@@ -4,7 +4,7 @@
 
 
 A modern, cross-platform desktop application for analyzing disk usage and finding duplicate files. Built with Rust and Iced GUI framework.
-
+</div>
 ## Purpose
 
 DiskViz helps you:
