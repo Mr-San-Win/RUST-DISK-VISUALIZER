@@ -177,3 +177,9 @@ diskviz/
 - **humansize 2.1.3**: Human-readable file size formatting
 - **serde 1.0**: Serialization/deserialization
 - **directories 5.0.1**: Cross-platform directory resolution
+
+Author
+
+SAN WIN
+
+Software Engineering Student
